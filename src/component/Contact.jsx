@@ -11,7 +11,7 @@ const Contact = () => {
           </div>
           <textarea name="message" placeholder='ketikkan sesuatu...' id="text" rows="6" className=' text-black p-2'></textarea>
           <div className='max-w-[600px]'>
-            <button type='submit' className='text-white border-2 px-48 py-3 my-8 mx-auto flex items-center rounded-xl hover: bg-[#30c9ce] hover: border-[#30c9ce]'>Kirim</button>
+            <button type='submit' className='text-white border-2 px-24 py-3 my-8 mx-auto flex items-center rounded-xl hover: bg-[#30c9ce] hover: border-[#30c9ce]'>Kirim</button>
           </div>
         </form>
       </div>
